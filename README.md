@@ -83,3 +83,5 @@ The solved challenges are:
 - Viral Advertising
 - Recursive Digit Sum
 - Insertion Sort - Part 1
+
+---
